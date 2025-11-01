@@ -1,0 +1,21 @@
+# Environment
+.env
+*.env
+venv/
+__pycache__/
+
+# Data
+*.csv
+data/
+raw_data/
+
+# dbt
+target/
+dbt_packages/
+logs/
+
+# OS
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
